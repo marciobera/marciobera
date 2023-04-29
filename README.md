@@ -2,7 +2,7 @@
 
 I'm a software engineer with ~15 years of experience developing web applications, APIs, and microservices. I've worked with a variety of technologies and frameworks, including:
 
-- NestJS / NodeJS / TypeScript
+- NestJS / Express / NodeJS / TypeScript
 - Laravel / Codeigniter / Slim
 - MySQL / Postgres / MongoDB / Redis
 
