@@ -2,9 +2,10 @@
 
 I'm a software engineer with ~15 years of experience developing web applications, APIs, and microservices. I've worked with a variety of technologies and frameworks, including:
 
-- NestJS / Express / NodeJS / TypeScript
-- Laravel / Codeigniter / Slim
-- MySQL / Postgres / MongoDB / Redis
+- JavaScript / TypeScript / NodeJS / NestJS
+- PHP / Laravel / Codeigniter / Slim
+- SQL / MySQL / PostgreSQL / AWS Aurora / Redis
+- AWS / SQS / S3 / Secrets Manager 
 
 I'm passionate about creating scalable, maintainable, and secure software that meets the needs of users and businesses. Some of my favorite programming principles and practices include:
 
